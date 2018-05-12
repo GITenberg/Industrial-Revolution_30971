@@ -1,0 +1,45 @@
+_repo: Industrial-Revolution_30971
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L.R.
+    - Summers, L. R.
+    - Summers, Leo Ramon
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: archival
+  image_path: 30971-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anderson, Poul
+    alias: Anderson, Poul William
+    birthdate: 1926
+    deathdate: 2001
+    gutenberg_agent_id: '25203'
+    url: http://www.gutenberg.org/2009/agents/25203
+    wikipedia: http://en.wikipedia.org/wiki/Poul_Anderson
+description: 'Industrial Revolution is a great adventure of interstellar mining, intrigue,
+  and the petty politics and rampant passions of man, which cannot be left behind
+  when he ventures to make his fortune in deep space. Deftly accompanied by the illustrations
+  of Leo Summers, Industrial Revolution gives us everything we came to love from the
+  great 1960s SF adventures: brave men, beautiful women, strange worlds, and a little
+  bit of the unexpected.'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Industrial Revolution
+url: http://www.gutenberg.org/ebooks/30971
